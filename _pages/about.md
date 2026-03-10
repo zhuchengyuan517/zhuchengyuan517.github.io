@@ -1,13 +1,16 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+
+Hi there, I am Chengyuan Zhu (朱程远)!
+Currently, I am a Research Fellow at Singapore University of Technology and Design (SUTD), working with [Prof. Xiaoli Li](https://www.sutd.edu.sg/profile/li-xiaoli/). Prior to that, I got my Ph.D. degree at College of Control Science and Engineering, Zhejiang University in Jun. 2025, supervised by [Prof. Qinmin Yang](https://person.zju.edu.cn/qmyang/647338.html). My research group is the Networked Sensing and Control ([NeSC](http://nesc.zju.edu.cn/#/)) led by [Academician Sun Youxian](https://person.zju.edu.cn/sunyouxian) and [Prof. Jiming Chen](https://person.zju.edu.cn/jmchen), State Key Laboratory of Industrial Control Technology, Zhejiang University. And I received my master' s degree from the Department of Oil and Gas Storage and Transportation Engineering, China University of Petroleum (East China) under the supervision of [Prof. Zili Li](https://www.baidu.com/link?url=NAnfyYUXM3m6Oz-94A1CO67A-RxIzy57HeUg2alYJZ6NgZtfaPQivkkZLvLrYFTC5RloxdcjYZeSc1Tl5Zn3Pa&wd=&eqid=9174421b0006a1e10000000669b02712).
+
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
