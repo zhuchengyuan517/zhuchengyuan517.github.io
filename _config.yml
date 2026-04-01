@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo.jpeg"
+  avatar           : "photo.jpg"
   name             : "Chengyuan Zhu"
   pronouns         : # example: "she/her"  
   bio              : "I am a Research Fellow at Singapore University of Technology and Design (SUTD). If you are interested in my research or would like to collaborate, please do not hesitate to contact me."
