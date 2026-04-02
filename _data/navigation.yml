@@ -15,10 +15,10 @@ main:
     url: /cv/
     
   - title: "Honors and Awards"
-     url: /cv-json/
+     url: /talks/
     
   - title: "Services"
-    url: /markdown/
+    url: /teaching/
     
 #  - title: "Talks"
 #    url: /talks/    
