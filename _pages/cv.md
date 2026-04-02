@@ -11,26 +11,26 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Electronic Information, Zhejiang University, 2025 
+* M.S. in Oil and Gas Storage and Transportation Engineering, China University of Petroleum (East China), 2021
+* B.S. in Oil and Gas Storage and Transportation Engineering, Northeast Petroleum University, 2018
 
-Work experience
+Intern experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024.09-2025.09: Algorithm Engineer
+  * National Pipeline Network Group (in China)
+  * Duties includes: Responsible for the research of pipeline safety early warning (PSEW) system
+  * Supervisor: Prof. Shouhong Ji
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2024.06-2024.09: Research Assistant
+  * Zhejiang Baima Lake Laboratory (in China)
+  * Duties included: Join in the research of key technologies for safety monitoring and protection of long-distance oil and gas pipelines
+  * Supervisor: Weiming Teng (Senior Engineer)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021.07-2023.07: Algorithm Engineer 
+  * Zhejiang Energy Natural Gas Co. (in China)
+  * Duties included: Responsible for the development of tracking and positioning algorithm of pipeline pig
+  * Supervisor: Jiren Qian (Senior Engineer)
   
 Skills
 ======
