@@ -32,7 +32,7 @@ Intern experience
   * Duties included: Responsible for the development of tracking and positioning algorithm of pipeline pig
   * Supervisor: Jiren Qian (Senior Engineer)
   
-Skills
+Honors and Awards
 ======
 * Skill 1
 * Skill 2
@@ -46,19 +46,9 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+   
   
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+* 
