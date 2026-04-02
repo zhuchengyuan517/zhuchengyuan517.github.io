@@ -17,7 +17,7 @@ I work in the field of Intelligent sensing systems, Industrial big data and arti
 
 News
 ======
-[2026.03] One paper on natural gas daily consumption was accepted by Advanced Engineering Informatics. [[Link](https://www.sciencedirect.com/science/article/pii/S1474034626001187)].
+[2026.03] One paper on natural gas daily consumption was accepted by AEI. [[Link](https://www.sciencedirect.com/science/article/pii/S1474034626001187)].
 
 [2026.02] One paper on monitoring landslide disturbances under extreme weather conditions was accepted by npj Natural Hazards. [[Link](https://www.nature.com/articles/s44304-026-00182-y)].
  
