@@ -11,14 +11,14 @@ main:
   - title: "Publications"
     url: /publications/
     
-  - title: "Education and Intern"
-    url: /cv/
+#  - title: "Education and Intern"
+#    url: /cv/
     
-  - title: "Honors and Awards"
-     url: /talks/
+#  - title: "Honors and Awards"
+#     url: /talks/
     
-  - title: "Services"
-    url: /teaching/
+#  - title: "Services"
+#    url: /teaching/
     
 #  - title: "Talks"
 #    url: /talks/    
