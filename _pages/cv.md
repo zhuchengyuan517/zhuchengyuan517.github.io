@@ -15,7 +15,7 @@ Education
 * M.S. in Oil and Gas Storage and Transportation Engineering, China University of Petroleum (East China), 2021
 * B.S. in Oil and Gas Storage and Transportation Engineering, Northeast Petroleum University, 2018
 
-Intern experience
+Intern Experience
 ======
 * 2024.09-2025.09: Algorithm Engineer
   * National Pipeline Network Group (in China)
@@ -47,7 +47,7 @@ Honors and Awards
 
 
   
-Service and leadership
+Service and Leadership
 ======
 * Journal Reviewer of Measurement, IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Instrumentation and Mesurement (TIM), IEEE Transactions on Circuits and Systems I: Regular Papers (TCASI), IEEE Transactions on Industrial Informatics (TII), Engineering Applications of Artificial Intelligence (EAAI), Knowledge-Based Systems (KBS)
 * Conference Reviewer of AAAI 2024 and 2025, IJCNN 2022 and 2023, CDC
