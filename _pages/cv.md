@@ -34,21 +34,24 @@ Intern experience
   
 Honors and Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2025 Sun Youxian Talent Scholarship
+* 2025 Outstanding Graduate, Zhejiang Province
+* 2025 Outstanding Graduate, Zhejiang University
+* 2024 China National Scholarship
+* 2024 China Industry-University-Research Cooperation Innovation Award Second Prize (4/10)
+* 2023 Zhejiang Science and Technology Award First Prize (6/13) <span style="color:red;">
+* 2022 Excellent student cadres
+* 2021-2025 Outstanding Graduate Student, Zhejiang University
+* 2021-2025 First-class Scholarship, Zhejiang University
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-   
+
+
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
-* 
+* Journal Reviewer of Measurement, IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Instrumentation and Mesurement (TIM), IEEE Transactions on Circuits and Systems I: Regular Papers (TCASI), IEEE Transactions on Industrial Informatics (TII), Engineering Applications of Artificial Intelligence (EAAI), Knowledge-Based Systems (KBS)
+* Conference Reviewer of AAAI 2024 and 2025, IJCNN 2022 and 2023, CDC
+* Organized multiple academic seminars and established a optical fiber AI alliance with Tsinghua University and University of Oxford
+  
+
+
