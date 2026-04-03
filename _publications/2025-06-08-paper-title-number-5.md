@@ -7,7 +7,7 @@ excerpt: 'This paper proposes a radial threat estimation method for energy pipel
 date: 2024-03-24
 venue: 'Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)'
 paperurl: 'https://ojs.aaai.org/index.php/AAAI/article/view/30264'
-citation: 'Zhu C, Yang Y, Yang K, et al. AI-based energy transportation safety: Pipeline radial threat estimation using intelligent sensing system[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2024, 38(20): 22556-22564.'
+# citation: 'Zhu C, Yang Y, Yang K, et al. AI-based energy transportation safety: Pipeline radial threat estimation using intelligent sensing system[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2024, 38(20): 22556-22564.'
 ---
 
 
