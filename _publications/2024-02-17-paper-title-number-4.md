@@ -1,7 +1,7 @@
 ---
 title: "Anomaly detection for non-stationary rotating machinery based on signal transform and memory-guided multi-scale feature reconstruction"
 collection: publications
-category: conferences
+category: manuscripts
 # permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper proposes a novel anomaly detection method based on the signal transform and memory-guided multi-scale feature reconstruction.'
 date: 2025-08-15
