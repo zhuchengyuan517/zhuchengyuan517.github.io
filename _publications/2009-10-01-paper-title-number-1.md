@@ -9,6 +9,6 @@ venue: 'Journal of Electronic Imaging'
 # slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://www.spiedigitallibrary.org/journals/Journal-of-Electronic-Imaging/volume-28/issue-4/043019/Segmenting-localized-corrosion-from-rust-removed-metallic-surface-with-deep/10.1117/1.JEI.28.4.043019.short'
 # bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-# citation: 'Zhang S, Li Z, Yang C, et al. Segmenting localized corrosion from rust-removed metallic surface with deep learning algorithm[J]. Journal of Electronic Imaging, 2019, 28(4): 043019-043019.'
+citation: 'Zhang S, Li Z, Yang C, et al. Segmenting localized corrosion from rust-removed metallic surface with deep learning algorithm[J]. Journal of Electronic Imaging, 2019, 28(4): 043019-043019.'
 ---
 
