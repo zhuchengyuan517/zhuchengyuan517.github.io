@@ -3,7 +3,7 @@ title: "Segmenting localized corrosion from rust-removed metallic surface with d
 collection: publications
 category: manuscripts
 # permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper present a segmentation process for detecting localized corrosion on rust-removed metallic surface based on a deep learning algorithm.'
+excerpt: 'This paper presents a segmentation process for detecting localized corrosion on rust-removed metallic surface based on a deep learning algorithm.'
 date: 2019-07-01
 venue: 'Journal of Electronic Imaging'
 # slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
