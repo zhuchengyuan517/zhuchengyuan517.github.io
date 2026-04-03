@@ -8,7 +8,7 @@ date: 2026-02-27
 venue: 'npj Natural Hazards'
 # slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://www.nature.com/articles/s44304-026-00182-y'
-citation: 'Zhu C, Yang Y, Yang K, et al. Monitoring landslide disturbances using distributed acoustic sensing under extreme weather conditions[J]. npj Natural Hazards, 2026, 3(1): 23.'
+# citation: 'Zhu C, Yang Y, Yang K, et al. Monitoring landslide disturbances using distributed acoustic sensing under extreme weather conditions[J]. npj Natural Hazards, 2026, 3(1): 23.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
