@@ -7,6 +7,6 @@ excerpt: 'This paper proposes a novel anomaly detection method based on the sign
 date: 2025-08-15
 venue: 'Engineering Applications of Artificial Intelligence'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0952197625008243'
-# citation: 'Lu R, Zheng D, Yang Q, et al. Anomaly detection for non-stationary rotating machinery based on signal transform and memory-guided multi-scale feature reconstruction[J]. Engineering Applications of Artificial Intelligence, 2025, 154: 110824.'
+citation: 'Lu R, Zheng D, Yang Q, et al. Anomaly detection for non-stationary rotating machinery based on signal transform and memory-guided multi-scale feature reconstruction[J]. Engineering Applications of Artificial Intelligence, 2025, 154: 110824.'
 ---
 
